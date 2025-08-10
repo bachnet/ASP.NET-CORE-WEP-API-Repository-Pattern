@@ -5,16 +5,22 @@ VisualStudioVersion = 17.8.34004.107
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NKRY-API", "NKRY-API\NKRY-API.csproj", "{71544546-DA55-477C-A235-C2AD3A2CDF8F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NKRY_API.Tests", "NKRY-API.Tests\NKRY_API.Tests.csproj", "{A0B0555A-FF17-4DDB-9B12-BC6AD711E52C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{71544546-DA55-477C-A235-C2AD3A2CDF8F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{71544546-DA55-477C-A235-C2AD3A2CDF8F}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{71544546-DA55-477C-A235-C2AD3A2CDF8F}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{71544546-DA55-477C-A235-C2AD3A2CDF8F}.Release|Any CPU.Build.0 = Release|Any CPU
+                {71544546-DA55-477C-A235-C2AD3A2CDF8F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+                {71544546-DA55-477C-A235-C2AD3A2CDF8F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+                {71544546-DA55-477C-A235-C2AD3A2CDF8F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+                {71544546-DA55-477C-A235-C2AD3A2CDF8F}.Release|Any CPU.Build.0 = Release|Any CPU
+                {A0B0555A-FF17-4DDB-9B12-BC6AD711E52C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+                {A0B0555A-FF17-4DDB-9B12-BC6AD711E52C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+                {A0B0555A-FF17-4DDB-9B12-BC6AD711E52C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+                {A0B0555A-FF17-4DDB-9B12-BC6AD711E52C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
